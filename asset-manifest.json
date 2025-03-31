@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/OmbamaWebsitues/static/css/main.ad218c09.css",
+    "main.js": "/OmbamaWebsitues/static/js/main.543e74c5.js",
+    "static/js/453.1457493a.chunk.js": "/OmbamaWebsitues/static/js/453.1457493a.chunk.js",
+    "static/media/logo512.png": "/OmbamaWebsitues/static/media/logo512.58986229c3e78bf0e3ae.png",
+    "static/media/aboutIMG.png": "/OmbamaWebsitues/static/media/aboutIMG.27a697095067af0226c4.png",
+    "static/media/homeIMG.png": "/OmbamaWebsitues/static/media/homeIMG.9734c5780a8e056591dc.png",
+    "index.html": "/OmbamaWebsitues/index.html",
+    "main.ad218c09.css.map": "/OmbamaWebsitues/static/css/main.ad218c09.css.map",
+    "main.543e74c5.js.map": "/OmbamaWebsitues/static/js/main.543e74c5.js.map",
+    "453.1457493a.chunk.js.map": "/OmbamaWebsitues/static/js/453.1457493a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad218c09.css",
+    "static/js/main.543e74c5.js"
+  ]
+}
