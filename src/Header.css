@@ -1,0 +1,77 @@
+.Header {
+  text-align: center;
+
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  justify-content: center;
+
+}
+
+.Header-logo {
+  position: absolute;
+  height: 10vh;
+  pointer-events: none;
+  margin-left: -49vw;
+  margin-top: 1vh;
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .Header-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.Header-header {
+  background-color: #7c2e0a;
+  height: 12.5vh;
+  display: flex;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  align-items: center;
+  justify-content: center;
+  font-size: 5vh;
+  color: white;
+  box-shadow: #000 0 0 2vh;
+}
+
+.Header ul {
+  align-items: center;
+  display: flex;
+  list-style: none;
+  padding: 0;
+
+  gap: 2vw;
+}
+
+.Header ul li {
+  margin: 0 1vw;
+
+}
+
+.Header ul li a {
+  text-decoration: none;
+  color: white;
+  background: none;
+  padding: 1vh 2vw;
+  border-radius: 2vh;
+  transition: background 0.3s;
+}
+
+.Header ul li a:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.Header-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
